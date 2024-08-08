@@ -4,3 +4,6 @@ body{
 p{ 
     color: #643b0b;
 }
+.fox{
+    font-style: inherit;
+}
