@@ -1,6 +1,7 @@
 body{
     background-color: antiquewhite;
     text-align: center;
+    border-inline-start: 5,0;
 }
 p{ 
     color: #643b0b;
@@ -8,6 +9,6 @@ p{
 p{
     font-family: cursive;
 }
-header{
-    display: block;
+image{
+    size-adjust: 5,0;
 }
